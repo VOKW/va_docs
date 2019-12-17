@@ -42,4 +42,4 @@
 <p>a</p>
 
 
-<h2>Sup</h1>(#2FA)
+- [How to activate 2FA (Two-Factor-Authentication) Slack Workspace](#2FA)
