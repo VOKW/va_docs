@@ -47,7 +47,6 @@
   </ol>
 
   ### Test-Integration
-  <li>To Test Integration</li>
         <ol>
           <li>Click on New Item</li>
           <li>Give it a name and use Pipeline</li>
