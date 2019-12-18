@@ -1,11 +1,11 @@
 <h1>DOTS Tool Guide</h1>
 
-- [PagerDuty](#PagerDuty)
-    * [User Administration](#User-Administration)
+- [Jenkins and Slack Integration](#Jenkins and Slack)
+    * [How to activate 2FA(Two-Factor-Authentication) Slack workspace and integrate with Jenkins](#2FA)
     * [Tool Usage Audit](#Tool-Usage-Audit)
 
 
 
-## PagerDuty
+## Jenkins and Slack Integration
 
-### User-Administration
+### How to activate 2FA(Two-Factor-Authentication) Slack workspace and integrate with Jenkins
