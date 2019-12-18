@@ -6,6 +6,6 @@
 
 
 
-## Jenkins and Slack Integration
+## Jenkins
 
 ### 2FA
