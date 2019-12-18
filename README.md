@@ -1,11 +1,10 @@
 <h1>DOTS Tool Guide</h1>
 
+<p>This directory is a guide to help user(s) integrate tools and also add/manage user(s)</p>
+
 - [Jenkins and Slack Integration](#Jenkins-And-Slack-Integration)
     * [How to activate 2FA(Two-Factor-Authentication) Slack workspace and integrate with Jenkins](#How-to-activate-2FA-Slack-workspace-and-integrate-with-Jenkins)
     * [Default Topic](#Default-Topic)
-
-
-
 
 ## Jenkins And Slack Integration
 
