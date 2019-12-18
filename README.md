@@ -4,7 +4,8 @@
 
 - [Jenkins and Slack Integration](#Jenkins-And-Slack-Integration)
     * [How to activate 2FA(Two-Factor-Authentication) Slack workspace and integrate with Jenkins](#How-to-activate-2FA-Slack-workspace-and-integrate-with-Jenkins)
-    * [Default Topic](#Default-Topic)
+        * [Test Integration](#Test-Integration)
+
 
 ## Jenkins And Slack Integration
 
@@ -43,20 +44,20 @@
          </ul>
        <li>Click Test Connection and make sure it is successful. Then scroll down and click Apply and then Save</li>
       </ol>
-    <li>To Test Integration</li>
-          <ol>
-            <li>Click on New Item</li>
-            <li>Give it a name and use Pipeline</li>
-            <li>Under Pipeline, enter the script to send a message to Slack</li>
-               <ul>
-                <li><a href="https://github.com/hnnguye5/DOTS_CDIT/blob/master/pics/slack-message.png?raw=true">Script Example</a></li>
-              </ul>
-            <li>Go back to Jenkins homepage and click on Manage Jenkins --> Manage Plugins</li>
-            <li>Under Available tab, search for Slack Notification and Pipeline. Click the checkbox next to their names. Then             click Install without Restart</li>
-            <li>Return back to your Jenkins homepage and click on the name of your pipeline</li>
-            <li>Click on Build Now</li>
-             <li>Check your Slack workspace to see a new message</li>
-         </ol>
   </ol>
 
-### Default Topic
+  #### Test-Integration
+  <li>To Test Integration</li>
+        <ol>
+          <li>Click on New Item</li>
+          <li>Give it a name and use Pipeline</li>
+          <li>Under Pipeline, enter the script to send a message to Slack</li>
+             <ul>
+              <li><a href="https://github.com/hnnguye5/DOTS_CDIT/blob/master/pics/slack-message.png?raw=true">Script Example</a></li>
+            </ul>
+          <li>Go back to Jenkins homepage and click on Manage Jenkins --> Manage Plugins</li>
+          <li>Under Available tab, search for Slack Notification and Pipeline. Click the checkbox next to their names. Then             click Install without Restart</li>
+          <li>Return back to your Jenkins homepage and click on the name of your pipeline</li>
+          <li>Click on Build Now</li>
+           <li>Check your Slack workspace to see a new message</li>
+       </ol>
